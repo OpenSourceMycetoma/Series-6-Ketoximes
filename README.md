@@ -1,15 +1,3 @@
-# Series-6-Ketoximes
+<img width="794" height="567" alt="Series 6 update 26-08-2026" src="https://github.com/user-attachments/assets/79ebe61c-1ec0-4734-aa63-616c2633c81e" />
 
-<img src ="https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=55790&t=l"> </img>
-
-
-The horticultural fungicide pyrifenox was tested against eumycetoma causing fungi as part of the same screen that marked fenarimol as a possible antifungal drug lead
-
-This project aims to produce optimized analogues of pyrifenox for possible use against invasive fungal infections in humans 
-
-Pyrifenox and fenarimol share the same enzymatic target (CYP51F) as posaconazole and itraconazole‡ - the current gold standard drugs for eumycetoma treatment 
-
-‡ as per the Fungicide Resistance Action Committee
-
-
-Compounds are currently being made by Dmitrij Melechov at UCL - [You can click here to see his ELN](https://tinyurl.com/MycetosDmitrij)
+[1] Melechov, D. Open Source Mycetoma (MycetOS): Discovery and Development of Antifungal Agents Against the Neglected Mycotic Disease. Doctoral thesis, UCL (University College London), [2024](https://doi.org/10/9/Melechov_10200110_thesis.pdf)
